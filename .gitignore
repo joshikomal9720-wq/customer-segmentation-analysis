@@ -1,0 +1,15 @@
+
+# Dataset and customer-level transaction outputs
+*.csv
+
+# Python files and environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Secrets and environment variables
+.env
